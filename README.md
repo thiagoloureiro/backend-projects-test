@@ -1,5 +1,3 @@
-[![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/backend-projects-test/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/backend-projects-test) 
-
 # | Backend na DevPartner
 
 ## | Sobre a DevPartner
